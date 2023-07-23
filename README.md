@@ -8,8 +8,8 @@
 <br/>
 <br/>
 
-### Hi 🙋‍♂️,
-### I'm a 17 year old Entreprenuer and Digital Expert.
+
+## 17 y/o Entreprenuer and Digital Expert.
 
 <br/>
 
