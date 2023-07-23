@@ -21,8 +21,7 @@
 
 *************
 
-#### Thank You!
-
 <p>
 <img src=https://visitor-badge.laobi.icu/badge?page_id=m0h4mm3d-bf.visitor-badge alt="visitor badge"/>
 </p>
+
