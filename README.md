@@ -9,16 +9,10 @@
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm a 16 year old Self-taught Developer, Graphic Designer and Cartographer from Pakistan.
+### I'm a 17 year old Entreprenuer and Digital Expert.
 
 <br/>
 
-
-
-<br/>
-**Certified UI/UX Designer, Machine Learning, Web Development, Mobile Application Development, Linux, System Design & Programming**
-
-<br/>
 
 <a href="https://github.com/m0h4mm3d-bf">
   <img src="https://github-readme-stats.vercel.app/api?username=m0h4mm3d-bf&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="evildevill GitHub Stats" />
