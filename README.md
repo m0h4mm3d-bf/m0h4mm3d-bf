@@ -9,7 +9,7 @@
 <br/>
 
 
-## 17 y/o Entreprenuer and Digital Expert.
+## 18 y/o Entreprenuer and Digital Expert.
 
 <br/>
 
